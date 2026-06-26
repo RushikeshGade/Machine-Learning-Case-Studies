@@ -1,10 +1,13 @@
 Machine Learning Case Studies
+---
 Overview
+---
 This repository contains a collection of Machine Learning case studies implemented using Python and popular data science libraries. The objective of these case studies is to understand real-world business problems, perform data analysis, build predictive models, evaluate performance, and derive meaningful insights from data.
 
 The projects cover various Machine Learning concepts including data preprocessing, exploratory data analysis (EDA), feature engineering, classification, regression, model evaluation, and visualization.
-
+---
 Objectives
+---
 Understand real-world datasets and business problems.
 Perform data cleaning and preprocessing.
 Conduct Exploratory Data Analysis (EDA).
@@ -12,7 +15,9 @@ Build and train Machine Learning models.
 Evaluate model performance using appropriate metrics.
 Visualize results and generate insights.
 Compare different algorithms and techniques.
+---
 Technologies Used
+---
 Python
 NumPy
 Pandas
@@ -60,8 +65,9 @@ Result Interpretation
 Conclusion
 Learning Outcomes
 Through these case studies, I have gained practical experience in:
-
+---
 Data Analysis
+---
 Machine Learning Model Development
 Feature Engineering
 Model Evaluation Techniques
@@ -73,7 +79,9 @@ Deep Learning Implementations
 Advanced Feature Engineering
 Deployment using Streamlit
 Model Optimization
+---
 Author
 Rushikesh Hanumant Gade
+---
 
 Machine Learning | Deep Learning | Artificial Intelligence Enthusiast

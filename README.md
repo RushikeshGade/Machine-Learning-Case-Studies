@@ -223,8 +223,6 @@ After completing these case studies, you will understand:
 
 <div align="center">
 
-### ⭐ If you like this repository, don't forget to give it a Star! ⭐
 
-**Happy Learning! 🚀**
 
 </div>
